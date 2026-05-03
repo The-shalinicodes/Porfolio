@@ -1,1 +1,0 @@
-Here is my portfolio website. It is built using React and hosted on GitHub Pages. You can find my projects, skills, and contact information here. Feel free to explore and reach out if you have any questions or opportunities!
